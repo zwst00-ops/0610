@@ -1,0 +1,6 @@
+{
+  "name": "ArchStudio",
+  "description": "건축 실무자를 위한 올인원 시뮬레이터. API 키가 필요 없는 정밀 북측 일조사선제한 매스 분석, 건폐율/용적률 계산, 법정 주차대수 및 자재 물량 산정, 축척 컨버터 탑재.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
